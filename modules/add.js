@@ -83,7 +83,7 @@ module.exports = {
                     }
                 }
                 var invite = {
-                    caption: "```Hi! You have been invited to join this WhatsApp group by BotsApp!```\n\n🔗https://mybotsapp.com",
+                    caption: "```Hi! You have been invited to join this WhatsApp group by WhatsApp BOT!```\n",
                     groupJid: BotsApp.groupId,
                     groupName: BotsApp.groupName,
                     inviteCode: code,
